@@ -1,5 +1,6 @@
 # web-http-lab
 
+Проект-лабораторная по курсу "Python Backend Developer Pre-Trainee"
 ## Запуск проекта
 
 Для запуска приложения нужно:
